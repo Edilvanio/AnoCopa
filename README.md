@@ -1,4 +1,4 @@
 # Quantas copas do Mundo?
 
->HTML / JS
+>HTML / JavaScript
 
